@@ -1,2 +1,2 @@
 # sql-challenge
-![ERD](ERD INFO/ERD.png)
+![ERD](ERD_INFO/ERD.png)
